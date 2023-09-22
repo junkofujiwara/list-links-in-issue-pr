@@ -7,7 +7,7 @@ see requirements.txt
 ### Usage
 python list.py -o <organization> -r <repo> -t <github_personal_token>
 
-### Parameters
+### Settings
 - API_ENDPOINT (GitHub REST API endpoint)
 - URL_PATTERN (URL pattern to be searched in issue/pr body)
 Both values are defined in settings.py
